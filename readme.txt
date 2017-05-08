@@ -1,1 +1,2 @@
-﻿how to learn git
+﻿how to learn git?
+git is popular!
